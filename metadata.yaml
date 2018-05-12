@@ -1,0 +1,26 @@
+_repo: Les-Huguenots--13-Cent-ans-de-pers-cution-1685-1789_16849
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janzé, Charles Alfred, Baron de
+    alias: Janze, Charles Alfred, Baron de
+    gutenberg_agent_id: '6972'
+    url: http://www.gutenberg.org/2009/agents/6972
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2005-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16849'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Huguenots -- France'
+title: "Les Huguenots\r\nCent ans de persécution 1685-1789"
+url: http://www.gutenberg.org/ebooks/16849
